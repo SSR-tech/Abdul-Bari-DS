@@ -13,6 +13,6 @@ int fun(int n)
 
 int main()
 {
-    int a = 3;
-    cout<<fun(a)<<" \n";
+    fun(3);
+    return 0;
 }
